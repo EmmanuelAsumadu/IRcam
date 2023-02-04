@@ -5,3 +5,4 @@ core
 .project
 .settings
 spec.d
+/Release/
